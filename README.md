@@ -1,3 +1,5 @@
+NAME: TH KARTHIK KRISHNA
+REG NO: 212223240067
 # Exno:1
 Data Cleaning Process
 
